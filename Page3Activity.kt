@@ -1,4 +1,4 @@
-package ir.cacolatorpro.ghafari.reshad
+package ir.cacolator.ghafari.reshad
 
 import android.content.Intent
 import android.graphics.Color

@@ -1,4 +1,4 @@
-package ir.cacolatorpro.ghafari.reshad
+package ir.cacolator.ghafari.reshad
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
